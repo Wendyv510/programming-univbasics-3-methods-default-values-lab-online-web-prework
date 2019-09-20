@@ -1,6 +1,7 @@
-def meal_choice = (protein=meat, veg 1, veg 2)
+def meal_choice = (protein, veg 1, veg 2)
   puts "What a nutritious meal!"
   
+  protein = tofu
   veg 1= broccoli
   veg 2= macaroni
 
